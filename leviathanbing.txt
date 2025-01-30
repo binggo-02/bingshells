@@ -1,7 +1,7 @@
 <?php
 
 $GLOBALS['Leviathan'] = array(
-    'username' => 'Binggo',
+    'username' => 'binggo',
     'password' => '10862ccb4d5891c455ea0fd50f953f3a',
     'safe_mode' => '1',
     'login_page' => 'gui',
