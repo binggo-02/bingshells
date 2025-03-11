@@ -2,7 +2,7 @@
 
 $GLOBALS['Leviathan'] = array(
     'username' => 'binggo',
-    'password' => '10862ccb4d5891c455ea0fd50f953f3a',
+    'password' => '67c2823bf849546912e2c1e0a9cea330',
     'safe_mode' => '1',
     'login_page' => 'gui',
     'show_icons' => '1',
